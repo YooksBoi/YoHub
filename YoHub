@@ -1,22 +1,3 @@
---          Games That are Avalible:
---          Prison Life
---          More Coming Soon!
-
-
-
-
-
-
-
-
-
-
-
-
---        Start of Script
-
-
-
 --          Prison Life
 
 if game.PlaceId == 155615604 then
